@@ -1,0 +1,21 @@
+id,nombre,talla,unidad,stock_actual,stock_minimo
+1,Gorra Snapback Classic,Unitalla,pcs,4,5
+2,Gorra Trucker Mesh,Unitalla,pcs,40,5
+3,Gorra Beisbol Basica,Unitalla,pcs,60,5
+4,Gorra Visera Plana Urban,Unitalla,pcs,30,3
+5,Gorra Vintage Denim,Unitalla,pcs,20,2
+6,Gorra Running Light,Unitalla,pcs,70,10
+7,Gorra Lana Premium,Unitalla,pcs,15,2
+8,Gorra Logo Patch,Unitalla,pcs,45,5
+9,Tenis Runner X,25,pcs,10,3
+10,Tenis Runner X,26,pcs,25,3
+11,Tenis Runner X,27,pcs,18,3
+12,Tenis Runner X,28,pcs,9,2
+13,Tenis Sport Pro,25,pcs,6,2
+14,Tenis Sport Pro,26,pcs,4,2
+15,Tenis Sport Pro,27,pcs,2,2
+16,Tenis Sport Pro,28,pcs,3,2
+17,Tenis Urban Lite,24,pcs,15,5
+18,Tenis Urban Lite,25,pcs,40,5
+19,Tenis Urban Lite,26,pcs,32,5
+20,Tenis Urban Lite,27,pcs,20,4

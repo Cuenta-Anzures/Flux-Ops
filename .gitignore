@@ -1,0 +1,6 @@
+# Ignore secrets containing service account keys
+secrets/
+
+# Node modules and build outputs (keep existing patterns)
+node_modules/
+dist/
