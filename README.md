@@ -1,10 +1,10 @@
-# CAFETERÍA ARTHIE'S (Offline-first)
+# Flux Ops (Offline-first)
 
 Proyecto base: Electron + React + TypeScript + SQLite (better-sqlite3).
 
 Quick start (Windows):
 
-# CAFETERÍA ARTHIE'S (Offline-first)
+# Flux Ops (Offline-first)
 
 Proyecto base: Electron + React + TypeScript + SQLite (sql.js in main, `better-sqlite3` for CLI scripts).
 
